@@ -9,11 +9,11 @@ tvbox自动整理
 
 
 ```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/tvbox/main/all.json
+https://raw.githubusercontent.com/vbskycn/tvbox/main/all.json
 ```
 
 单仓
 
 ```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/tvbox/main/tvbox.json
+https://raw.githubusercontent.com/vbskycn/tvbox/main/tvbox.json
 ```
